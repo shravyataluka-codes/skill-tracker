@@ -10,4 +10,4 @@ Browser-based using HTML/CSS/JS + localStorage. No backend needed.
 - Weekly summary + streak
 - Delete options
 
-**[Try it live](your-deploy-link)**
+**[Try it live](https://skilltracking-app.netlify.app/)**
